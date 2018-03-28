@@ -1,0 +1,48 @@
+body{
+  
+}
+h1{
+  font-size:50px;
+}
+p{
+  font-style:italic;
+  font-size:20px;
+}
+.quotes{
+  background-color:grey;
+  width:50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:#FF0000;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:10px;
+  padding:20px;
+  height:auto;
+  color:white;
+}
+.quotes{
+  font-size:30px;
+}
+.author{
+  font-size:20px;
+  font-style:italic;
+}
+
+
+@media only screen and (min-device-width : 414px) and (max-device-width : 736px){
+
+.quotes{
+  background-color:grey;
+  width:95%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:#FF0000;
+  border-style:solid;
+  border-radius:5px;
+  margin-top:10px;
+  padding:20px;
+  height:auto;
+  color:white;
+
+}
